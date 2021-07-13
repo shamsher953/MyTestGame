@@ -1,0 +1,3 @@
+include ':unityLibraryy'
+include ':app'
+rootProject.name = "MyGameTest"
