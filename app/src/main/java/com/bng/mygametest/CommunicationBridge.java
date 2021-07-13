@@ -21,7 +21,7 @@ public class CommunicationBridge {
 
 
     public String updateScore(String score){
-        Log.d("CommunicationBridge", "MyScore " + score);
+        Log.d("CommunicationBridge", "MyScoree " + score);
         return score;
     }
 
